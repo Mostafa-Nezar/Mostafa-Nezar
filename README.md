@@ -130,7 +130,104 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-<!---
+
 mostafanezar22/mostafanezar22 is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
---->
+
+<h1 align="center">Hi 👋, I'm Mostafa Nezar</h1>
+<h3 align="center">Passionate Web Developer | Computer Science Student</h3>
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width="60%">
+</p>
+
+---
+
+## 🧑‍💻 About Me
+
+- 👀 I’m interested in **Web Development**
+- 🌱 I’m currently learning **Computer Science & Modern Web Technologies**
+- 🤝 I’m looking to collaborate on **2024–2025 projects**
+- ⚡ I love clean code & building creative UI/UX
+- 📫 Reach me at: **mostafanezar19@gmail.com**
+
+---
+
+## 🚀 Tech Stack
+
+### 🧩 **Languages**
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+</div>
+
+### ⚛️ **Frontend**
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40"/>
+</div>
+
+### 🛠 **Backend**
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40"/>
+</div>
+
+### 🗄️ **Databases**
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
+</div>
+
+---
+
+## 🧰 Tools I Use
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/>
+</div>
+
+---
+
+## 📂 Featured Projects
+
+### 🔥 **Furniro E-Commerce**
+- Complete online shop  
+- LocalStorage cart & rating system  
+- Product filtering, sorting & pagination  
+
+➡️ Repo: *Add your link here*
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mostafanezar22&show_icons=true&theme=tokyonight" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafanezar22&layout=compact&theme=tokyonight" height="160px"/>
+</div>
+
+---
+
+## 🐍 GitHub Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="mailto:mostafanezar19@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+mostafanezar22/mostafanezar22 is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
 
