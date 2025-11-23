@@ -203,7 +203,7 @@ Mostafa-Nezar/Mostafa-Nezar is a ✨ special ✨ repository because its `README.
 
 ---
 
-## 📊 GitHub Stats (Tokyo Night Theme)
+## 📊 GitHub Stats 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mostafa-Nezar&show_icons=true&theme=tokyonight&hide_border=true" height="170px"/>
