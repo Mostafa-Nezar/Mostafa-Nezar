@@ -98,8 +98,8 @@ You can click the Preview link to take a look at your changes.
 ## 📊 GitHub Stats (Tokyo Night Theme)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mostafanezar22&show_icons=true&theme=tokyonight&hide_border=true" height="170px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafanezar22&layout=compact&theme=tokyonight&hide_border=true" height="170px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mostafa-Nezar&show_icons=true&theme=tokyonight&hide_border=true" height="170px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mostafa-Nezar&layout=compact&theme=tokyonight&hide_border=true" height="170px"/>
 </div>
 
 ---
@@ -107,7 +107,7 @@ You can click the Preview link to take a look at your changes.
 ## 🔥 GitHub Streaks
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=mostafanezar22&theme=tokyonight&hide_border=true" height="200px"/>
+  <img src="https://streak-stats.demolab.com?user=Mostafa-Nezar&theme=tokyonight&hide_border=true" height="200px"/>
 </div>
 
 ---
@@ -205,7 +205,7 @@ mostafanezar22/mostafanezar22 is a ✨ special ✨ repository because its `READM
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mostafanezar22&show_icons=true&theme=tokyonight" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mostafa-Nezar&show_icons=true&theme=tokyonight" height="160px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafanezar22&layout=compact&theme=tokyonight" height="160px"/>
 </div>
 
