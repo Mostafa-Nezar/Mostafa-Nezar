@@ -91,7 +91,7 @@ You can click the Preview link to take a look at your changes.
 - LocalStorage cart & rating system  
 - Product filtering, sorting & pagination  
 
-[➡️ Repo: *Add your link here*](https://furniro-react-jade.vercel.app/)
+[*Furniro*](https://furniro-react-jade.vercel.app/)
 
 ---
 
