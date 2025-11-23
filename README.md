@@ -131,7 +131,7 @@ You can click the Preview link to take a look at your changes.
 ---
 
 
-mostafanezar22/mostafanezar22 is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
+Mostafa-Nezar/Mostafa-Nezar is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
 
 <h1 align="center">Hi 👋, I'm Mostafa Nezar</h1>
 <h3 align="center">Passionate Web Developer | Computer Science Student</h3>
@@ -206,7 +206,7 @@ mostafanezar22/mostafanezar22 is a ✨ special ✨ repository because its `READM
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mostafa-Nezar&show_icons=true&theme=tokyonight" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafanezar22&layout=compact&theme=tokyonight" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mostafa-Nezar&layout=compact&theme=tokyonight" height="160px"/>
 </div>
 
 ---
@@ -229,5 +229,5 @@ mostafanezar22/mostafanezar22 is a ✨ special ✨ repository because its `READM
 
 ---
 
-mostafanezar22/mostafanezar22 is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
+Mostafa-Nezar/Mostafa-Nezar is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
 
