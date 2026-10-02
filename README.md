@@ -10,11 +10,11 @@
 
 ## 🧑‍💻 About Me
 
-👀 I’m interested in \*\*Web Development
- 🌱 I’m currently learning \*\*Computer Science & Modern Web Technologies
- 🤝 I’m looking to collaborate on 2024–2025 projects
+👀 I’m interested in \*\*Web Development\*\*
+ 🌱 I’m currently learning \*\*Computer Science & Modern Web Technologies\*\*
+ 🤝 I’m looking to collaborate on \*\*2024–2025 projects\*\*
  ⚡ I love clean code & building creative UI/UX
- 📫 Reach me at: \*\*mostafanezar19\@gmail.com
+ 📫 Reach me at: \*\*mostafanezar19\@gmail.com\*\*
 
 ---
 
