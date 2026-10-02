@@ -8,13 +8,13 @@
 
 ---
 
-## 👨‍💻 About Me
+## 🧑‍💻 About Me
 
-- Software Engineer with experience in building web and cross-platform mobile applications.
-- Experienced in developing scalable applications, RESTful APIs, and secure authentication systems.
-- Currently focused on Full-Stack Development, Mobile Applications, and Software Architecture.
-- Interested in clean code, performance optimization, and building reliable user-focused solutions.
-- 📫 Reach me at: **mostafanezar19@gmail.com**
+👀 I’m interested in \*\*Web Development
+ 🌱 I’m currently learning \*\*Computer Science & Modern Web Technologies
+ 🤝 I’m looking to collaborate on 2024–2025 projects
+ ⚡ I love clean code & building creative UI/UX
+ 📫 Reach me at: \*\*mostafanezar19\@gmail.com
 
 ---
 
